@@ -1,5 +1,5 @@
 # melvfnz.github.io
-Personal website, built using Boostrap.
+Personal website, built using Boostrap. Includes blog consisting of machine learning, data science and Python information.
 
 ## Getting Started
 1. Fork the repository to make it yours.
