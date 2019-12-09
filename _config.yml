@@ -1,3 +1,5 @@
 name: Melvynn Fernandez
 markdown: kramdown
 permalink: /:title/
+
+theme: jekyll-theme-minimal
